@@ -39,12 +39,5 @@ const showArtists = ({artists}) => {
   });
   }
   
-// const showArtists = (data) => {
-//     console.log(data);
-//     const artistContainer = elementById("artists");
-//     data?.artists?.forEach((artist) => {
-    
-//       artistContainer.appendChild(div);
-//     });
-//   };
+
   
